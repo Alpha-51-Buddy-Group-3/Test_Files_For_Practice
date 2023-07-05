@@ -10,3 +10,4 @@ def get_odd_numbers(any_list):
 # comments
 
 # Rado is the best!
+# Alex knows Python more than me
