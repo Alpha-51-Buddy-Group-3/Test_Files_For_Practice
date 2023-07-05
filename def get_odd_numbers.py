@@ -12,3 +12,4 @@ def get_odd_numbers(any_list):
 # Rado is the best!
 # Alex knows Python more than me
 a = 5
+b = 6
