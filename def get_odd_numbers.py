@@ -8,9 +8,3 @@ def get_odd_numbers(any_list):
 
 # new_comment
 # comments
-
-# Rado is the best!
-# Alex knows Python more than me
-a = 5
-b = 6
-# new
