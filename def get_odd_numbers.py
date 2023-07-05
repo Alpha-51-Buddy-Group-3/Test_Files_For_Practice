@@ -6,5 +6,5 @@ def get_odd_numbers(any_list):
     
     return result
 
-# new_comment
-# comments
+def add_num(a, b):
+    return a + b
