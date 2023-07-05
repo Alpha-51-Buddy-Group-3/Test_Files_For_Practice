@@ -6,4 +6,5 @@ def get_odd_numbers(any_list):
     
     return result
 
+print(get_odd_numbers([1,2,3,4,5]))
 
