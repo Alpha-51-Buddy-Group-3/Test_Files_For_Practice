@@ -9,6 +9,6 @@ def get_odd_numbers(any_list):
 def add_num(a, b):
     return a + b
 print(get_odd_numbers([1,2,3,4,5]))
-# yes
+
 
 
