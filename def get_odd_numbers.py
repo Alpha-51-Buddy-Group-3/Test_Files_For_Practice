@@ -5,3 +5,6 @@ def get_odd_numbers(any_list):
             result.append(num)
     
     return result
+
+# new_comment
+# comments
